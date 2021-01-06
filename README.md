@@ -1,0 +1,2 @@
+# script-to-uninstall-anything-from-your-phone-without-root
+This script will uninstall any package, app, or annoying "came with the phone" service but, still allow you to receive updates because it doesn't actually delete it from the system, only the user. So, if you mess anything up you can just perform a system reset and it will be reinstalled since it was never really uninstalled, only uninstalled for the user.
